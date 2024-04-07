@@ -1,4 +1,4 @@
-# Quiz-App-Using-Java
+# Quiz App
 
 ## Available Services
 1. Quiz
